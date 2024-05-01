@@ -22,7 +22,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+  <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
 ### Bibliotecas e Frameworks
